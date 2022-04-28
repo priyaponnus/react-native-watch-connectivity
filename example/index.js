@@ -1,5 +1,5 @@
 /**
- * @format_PriyaPonnus_commit2_commit3
+ * @format_PriyaPonnus
  */
 
 import {AppRegistry} from 'react-native';
